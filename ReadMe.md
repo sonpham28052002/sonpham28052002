@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sonpham28052002&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonpham28052002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sonpham28052002&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sonpham28052002&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sonpham28052002&icon=0&color=0)](https://visitcount.itsvg.in)
